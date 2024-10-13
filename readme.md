@@ -1,0 +1,1 @@
+BlockSeat is an AI-powered ticketing app that delivers personalized recommendations for events and digital content. I led the complete front-end development, integrating machine learning to optimize user engagement and experience.
